@@ -10,6 +10,9 @@ Arduino project: allow the public to easily interact (read and write) with an LC
 ## Wiring
 ![Schema](wiring.png)
 
+## Photo
+![Photo](photo.jpg)
+
 ## TODO
 - Add "setup" instructions
 
