@@ -8,7 +8,7 @@ Arduino project: allow the public to easily interact (read and write) with an LC
 - Some wires, a breadboard, a trimmer potentiometer
 
 ## Wiring
-(See the schema)[wiring.png]
+![Schema](wiring.png)
 
 ## TODO
 - Add "setup" instructions
