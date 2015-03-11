@@ -5,9 +5,12 @@ Arduino project: allow the public to easily interact (read and write) with an LC
 - Arduino Uno
 - LCD display (in our setup, it was the PC2002LRS-AWA-B model)
 - Ethernet shield (we used "Wiznet Ethernet Shield v1.1 by Seed)
+- Some wires, a breadboard, a trimmer potentiometer
+
+## Wiring
+(See the schema)[wiring.png]
 
 ## TODO
-- Add wiring layout
 - Add "setup" instructions
 
 ## Contributions
